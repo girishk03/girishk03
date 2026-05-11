@@ -9,8 +9,6 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishk03&layout=compact&theme=dark&hide_border=true)](https://github.com/girishk03)
-
 ### 🛠 Tech Stack
 
 | Area | Stack |
@@ -29,10 +27,6 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 | **Timetabling Solver** | CP-SAT + LNS optimizer, detects infeasibility | [Dashboard](https://girishk03.github.io/University-Timetabling-Solver/) · [API](https://university-timetabling-solver.onrender.com/docs) |
 | **Power Theft Detection** | Smart grid monitoring with heuristic risk scoring | [Dashboard](https://power-theft-detection-system.onrender.com) |
 | **Smart Marine AI** | YOLOv5 marine debris detection, 92% accuracy | [Repo](https://github.com/girishk03/smart_marine_project) |
-
-### ❤️ GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=girishk03&theme=dark&hide_border=true)](https://github.com/girishk03)
 
 ### 📫 Contact
 
