@@ -33,11 +33,6 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=girishk03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=girishk03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
 ### 📫 Contact
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://girish-challa-portfolio.vercel.app)
