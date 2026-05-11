@@ -9,7 +9,7 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishk03&layout=compact&theme=dark&hide_border=true&hide=jupyter+notebook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishk03&layout=compact&theme=dark&hide_border=true)](https://github.com/girishk03)
 
 ### 🛠 Tech Stack
 
@@ -32,7 +32,7 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 
 ### ❤️ GitHub Stats
 
-![Girish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girishk03&show_icons=true&theme=dark&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=girishk03&theme=dark&hide_border=true)](https://github.com/girishk03)
 
 ### 📫 Contact
 
