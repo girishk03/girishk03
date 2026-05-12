@@ -27,6 +27,7 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 | **Timetabling Solver** | CP-SAT + LNS optimizer, detects infeasibility | [Dashboard](https://girishk03.github.io/University-Timetabling-Solver/) · [API](https://university-timetabling-solver.onrender.com/docs) |
 | **Power Theft Detection** | Smart grid monitoring with heuristic risk scoring | [Dashboard](https://power-theft-detection-system.onrender.com) |
 | **Smart Marine AI** | YOLOv5 marine debris detection, 92% accuracy | [Repo](https://github.com/girishk03/smart_marine_project) |
+| **Hate Speech Detection** | TF-IDF + LinearSVC, 78.5% accuracy — YouTube classifier + AI polite chatroom | [Repo](https://github.com/girishk03/hate-speech-detection) |
 
 
 ### 🔥 GitHub Streak
