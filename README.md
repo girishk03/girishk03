@@ -38,4 +38,4 @@ Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://girish-challa-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-challagirish-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/challagirish)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:saigirshchalla574@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:saigirishchalla574@gmail.com)
