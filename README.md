@@ -1,6 +1,6 @@
 # Hi, I'm Girish Challa 👋
 
-Backend Engineer | Final-year CS Student at Anurag University, Hyderabad
+Python Backend Developer | Computer Science Graduate | Fresher based in Hyderabad
 
 ### ✍️ Languages
 
